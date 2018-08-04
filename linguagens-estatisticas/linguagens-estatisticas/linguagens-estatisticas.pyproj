@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a48f2cb8-283b-40d5-b51a-cb30af97030f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Unidade 2\EncontrarSegundoMaiorScore.py</StartupFile>
+    <StartupFile>Unidade 2\EncontrePorcentagem.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Unidade 2\EncontrarSegundoMaiorScore.py" />
+    <Compile Include="Unidade 2\EncontrePorcentagem.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Unidade 2\ListasAninhadas.py">
       <SubType>Code</SubType>
     </Compile>
